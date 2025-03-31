@@ -21,6 +21,7 @@
     
     ! Body of datatypes
     print *, 'Hello World'
+    read(*,*)
 
     end program datatypes
 
