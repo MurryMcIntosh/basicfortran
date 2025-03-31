@@ -21,6 +21,8 @@
     
     ! Body of datatypes
     print *, 'Hello World'
+    read *, age, weight
+    print *, "Your age is: ", age, ", and your weight it: ", weight
     read(*,*)
 
     end program datatypes
